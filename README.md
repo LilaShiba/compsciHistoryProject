@@ -23,7 +23,7 @@ There are seven options. Each team will be comprised of two members.
   
 - [Lady Ada Lovelace: First programmer](https://www.youtube.com/watch?v=InyyT4OiYFY)
   
-- [Claude Shannon: Information theory and other crazy things](https://www.youtube.com/watch?v=z2Whj_nL-x8)
+- [Claude Shannon: Information theory and other crazy things]([https://www.youtube.com/watch?v=z2Whj_nL-x8](https://www.youtube.com/watch?v=3pRR8OK4UfE)
   
 - [Fei-Fei Li: Grandmother of computer vision/AI](https://www.youtube.com/watch?v=XlnbNFW2tX8)
 
